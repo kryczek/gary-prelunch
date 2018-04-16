@@ -27,11 +27,12 @@ body {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 30px;
   font-family: 'Muli', sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   color: #fff;
+  margin-top: -45px;
 }
 
 h2 {
@@ -546,8 +547,8 @@ div#addeventatc1 {
 
 a.play-cirle {
   display: block;
-  width: 59px;
-  height: 59px;
+  width: 39px;
+  height: 39px;
   text-align: center;
   margin: 0 auto 42px auto;
   border-radius: 100%;
@@ -564,9 +565,12 @@ a.play-cirle .zmdi-hc-fw {
     color: red;
 }
 
+a.play-cirle .zmdi-hc-fw:hover {
+  color: brown !important;
+}
+
 a.play-cirle:hover .zmdi-hc-fw {
   margin-left: 0px;
-  color: #004EFF;
 }
 
 a.watch-link:hover .zmdi-hc-fw {
@@ -820,7 +824,7 @@ a.watch-link:hover .zmdi-hc-fw {
 .video {
   width: 100%;
   height: 9rem;
-  margin-bottom: 20px;
+  margin: 20px 0;
   -webkit-background-size: cover !important;
   -moz-background-size: cover !important;
   -o-background-size: cover !important;
