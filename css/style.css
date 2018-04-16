@@ -532,7 +532,7 @@ div#addeventatc1 {
 
 .watch-box {
   text-align: center;
-  margin: 40% auto 60% auto;
+  padding-top: 3rem;
 }
 
 .check-circle .watch-box {
@@ -552,6 +552,7 @@ a.play-cirle {
   margin: 0 auto 42px auto;
   border-radius: 100%;
   border: 1px solid white;
+  background: white;
 }
 
 a.play-cirle:hover {
@@ -559,7 +560,8 @@ a.play-cirle:hover {
 }
 
 a.play-cirle .zmdi-hc-fw {
-    padding: 21px 9px;
+    padding: 10px 9px;
+    color: red;
 }
 
 a.play-cirle:hover .zmdi-hc-fw {
@@ -817,7 +819,8 @@ a.watch-link:hover .zmdi-hc-fw {
 
 .video {
   width: 100%;
-  height: 200%;
+  height: 9rem;
+  margin-bottom: 20px;
   -webkit-background-size: cover !important;
   -moz-background-size: cover !important;
   -o-background-size: cover !important;
@@ -922,6 +925,8 @@ a.watch-link:hover .zmdi-hc-fw {
 
   .carusel-section .watch-box {
     margin: 20% 45%;
+
+
   }
 }
 
