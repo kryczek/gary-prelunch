@@ -533,7 +533,7 @@ div#addeventatc1 {
 
 .watch-box {
   text-align: center;
-  padding-top: 3rem;
+  padding-top: 4.5rem;
 }
 
 .check-circle .watch-box {
@@ -823,7 +823,7 @@ a.watch-link:hover .zmdi-hc-fw {
 
 .video {
   width: 100%;
-  height: 9rem;
+  height: 12rem;
   margin: 20px 0;
   -webkit-background-size: cover !important;
   -moz-background-size: cover !important;
