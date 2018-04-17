@@ -348,7 +348,7 @@ a:hover .zmdi-hc-fw {
   }
 
   .header-section {
-    background: url(../img/header-cover.png) 40% 0% no-repeat;
+    background: url(../img/header-cover.png) repeat;
   }
 
   .header-section-thx {
@@ -361,7 +361,8 @@ a:hover .zmdi-hc-fw {
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 25px;
+    nargin-top: 0px;
 }
 
   .margin-top-header {
@@ -590,13 +591,13 @@ a.watch-link:hover .zmdi-hc-fw {
 
   .watch-box {
       text-align: center;
-      margin: 60% auto 60% auto;
+      margin: 0% auto 0% auto;
   }
 }
 
 @media screen and (max-width: 768px) {
   .watch-box {
-    margin: 40% auto 60% auto;
+    margin: 0% auto 0% auto;
   }
 }
 
@@ -633,7 +634,7 @@ a.watch-link:hover .zmdi-hc-fw {
   }
 
   .watch-box {
-    margin: 60% auto 60% auto;
+    margin: 0% auto 0% auto;
   }
 }
 
@@ -1330,7 +1331,7 @@ span.play-cirle {
 
 @media screen and (max-width: 1080px) {
   .red-background .watch-box {
-    margin: 60% auto 0% auto;
+    margin: 0% auto 0% auto;
   }
 }
 
