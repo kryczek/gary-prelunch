@@ -272,41 +272,9 @@ section {
   background-color: black;
 }
 
-.header-section-thx {
-  background: url(../img/bg-thx.png) right bottom no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  min-height: 852px;
-  padding: 10px 0px;
-  color: black;
-}
-
-.margin-top-header {
-    padding: 5rem;
-}
-
-.header-section2 {
-  background: url(../img/header-cover2.png) center center no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  min-height: 852px;
-  padding: 10px 0px;
-  color: white;
-}
-
-.header-section3 {
-  background: url(../img/header-cover3.png) center center no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  min-height: 852px;
-  padding: 10px 0px;
-  color: white;
+.header-section h3 {
+  text-align: center;
+  color: #fff;
 }
 
 img.logo {
