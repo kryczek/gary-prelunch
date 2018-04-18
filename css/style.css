@@ -1550,3 +1550,13 @@ div#addeventatc2:hover {
     width: 100%;
     height: 100%;
 }
+
+/* Tabs */
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block !important;
+}
