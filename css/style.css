@@ -277,9 +277,9 @@ section {
   color: #fff;
 }
 
-img.logo {
-  width: 100%;
-  height: auto;
+img.logo-wbe {
+    width: 20%;
+    padding: 2rem 0 0;
 }
 
 .header-section-thx,
