@@ -188,7 +188,7 @@ i.zmdi {
 }
 
 section {
-    padding: 30px 0px;
+    padding: 0px 0px;
 }
 
 .img-rwd {
@@ -263,12 +263,16 @@ section {
 /* 3. Header */
 .header-section {
   min-height: 452px;
-  padding: 10px 0px;
+  padding: 0px 0px;
   background-color: white;
 }
 
 .header-section h3 {
   text-align: center;
+  color: black;
+}
+
+.live-box .watch-box h3 {
   color: white;
 }
 
