@@ -1046,6 +1046,9 @@ p.footer-info {
       font-size: 13px;
       line-height: 20px;
   }
+  img.logo-wbe {
+    width: 50%;
+}
 }
 
 @media screen and (max-width: 425px) {
