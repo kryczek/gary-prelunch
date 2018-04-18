@@ -20,7 +20,7 @@
 /* 1. General Style */
 body {
   color: #39393A;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'georgia', sans-serif;
   font-weight: 300;
   font-size: 16px;
   margin: 0;
@@ -28,7 +28,7 @@ body {
 
 h1 {
   font-size: 30px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   color: black;
@@ -36,7 +36,7 @@ h1 {
 
 h2 {
   font-size: 26px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 900;
   line-height: 0px;
 }
@@ -47,17 +47,19 @@ h2 {
 
 h3 {
   font-size: 16px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 900;
   line-height: 0px;
+  color: black;
 }
 
 p {
   line-height: 32px;
+
 }
 
 a {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   text-decoration: none;
@@ -378,7 +380,7 @@ div#addeventatc1 {
 .button:hover {
   background-color: rgba(255,255,255, 1);
   border: 2px solid #fff;
-  color: #F01616;
+  color: black;
 }
 
 .blue-background .button {
@@ -420,7 +422,7 @@ div#addeventatc1 {
   background: #004EFF;
   color: white;
   padding: 50px 0 30px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 14px;
 }
 
@@ -810,6 +812,11 @@ a.watch-link:hover .zmdi-hc-fw {
   pointer-events: none;
 }
 
+.soon-text h3 {
+    color: white;
+    font-size: 15px;
+}
+
 .video-opacity .play-cirle {
   cursor: default;
 }
@@ -939,7 +946,7 @@ footer {
   padding: 0px;
   bottom: 0;
   text-align: center;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 300;
   font-size: 15px;
 }
@@ -1054,7 +1061,7 @@ p.footer-info {
 
 /* 11. Timer */
 .small-timer {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 .small-timer span {
@@ -1283,7 +1290,7 @@ span.play-cirle {
   border: 1px solid white;
   color: white;
   font-size: 42px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: normal;
   padding: 30px 0px;
 }
@@ -1312,7 +1319,7 @@ input[type="text"] {
   border-radius: 45.5px;
   padding: 0px 80px 0px 40px;
   font-size: 16px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: bold;
   color: #004EFF;
   outline: none;
@@ -1325,7 +1332,7 @@ input[type="text"]::placeholder {
 input[type="submit"] {
   background: #C30016;
   border-radius: 45.5px;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 14px;
   color: white;
   letter-spacing: 1.75px;
@@ -1396,7 +1403,7 @@ input[type="submit"]:hover {
 
 .section-box h3,
 .section-box p {
-    color: #fff !important;
+    color: black !important;
 }
 
 .section-box .col-lg-12 {
@@ -1439,7 +1446,7 @@ fieldset {
     border-radius: 45.5px;
     padding: 0px 40px 0px 40px;
     font-size: 16px;
-    font-family: 'Muli', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight: bold;
     color: #fff;
     background: transparent;
