@@ -269,11 +269,11 @@ section {
 
 .header-section h3 {
   text-align: center;
-  color: black;
+  color: white;
 }
 
 img.logo-wbe {
-    width: 20%;
+    width: 50%;
     padding: 2rem 0 0;
 }
 
