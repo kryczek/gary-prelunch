@@ -806,6 +806,7 @@ a.watch-link:hover .zmdi-hc-fw {
 .video-opacity {
   opacity: 0.5;
   background-color: black;
+  pointer-events: none;
 }
 
 .video-opacity .play-cirle {
@@ -822,32 +823,8 @@ a.watch-link:hover .zmdi-hc-fw {
   background: url(../img/video2.png) center center no-repeat;
 }
 
-.video3 {
+.live-box {
   background: url(../img/video3.png) center center no-repeat;
-}
-
-.video4 {
-  background: url(../img/video4.png) center center no-repeat;
-}
-
-.video5 {
-  background: url(../img/video5.png) center center no-repeat;
-}
-
-.video6 {
-  background: url(../img/video6.png) center center no-repeat;
-}
-
-.video7 {
-  background: url(../img/video7.png) center center no-repeat;
-}
-
-.video8 {
-  background: url(../img/video8.png) center center no-repeat;
-}
-
-.video9 {
-  background: url(../img/video9.png) center center no-repeat;
 }
 
 .carusel-section .watch-box {
