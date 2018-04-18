@@ -803,6 +803,10 @@ a.watch-link:hover .zmdi-hc-fw {
   background-size: cover !important;
 }
 
+.video-opacity {
+  opacity: 0.5;
+}
+
 .video1 {
   background: url(../img/video1.png) center center no-repeat;
 }
