@@ -1565,9 +1565,11 @@ div#addeventatc2:hover {
 ul.share-buttons {
     margin: 0 auto;
     text-align: center;
+    padding-left: 0px;
 }
 ul.share-buttons li {
     display: inline-block;
+    vertical-align: text-top;
 }
 
 li.lin-share-button span {
