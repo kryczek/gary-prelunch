@@ -363,15 +363,11 @@ div#addeventatc1 {
 .button {
   text-align: center;
   font-weight: 600;
-  display: block;
-  background: #F01616;
+  background-color: rgba(255,255,255,.0);
   color: #fff;
-  font-size: 20px;
   border-radius: 10px;
-  padding: 20px 20px;
-  max-width: 360px;
-  white-space: nowrap;
-  border-bottom: 5px solid #950E0E;
+  padding: 10px 20px;
+  border: 2px solid #fff;
   margin: 0 auto;
 }
 
@@ -385,7 +381,8 @@ div#addeventatc1 {
 }
 
 .button:hover {
-  background: rgb(145,32,45);
+  background-color: rgba(255,255,255,.0);
+  border: 2px solid #fff;
 }
 
 .blue-background .button {
@@ -824,7 +821,7 @@ a.watch-link:hover .zmdi-hc-fw {
 }
 
 .live-box {
-  background: url(../img/video3.png) center center no-repeat;
+  background-color: #F01616;
 }
 
 .carusel-section .watch-box {
