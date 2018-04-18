@@ -381,8 +381,9 @@ div#addeventatc1 {
 }
 
 .button:hover {
-  background-color: rgba(255,255,255,.0);
+  background-color: rgba(255,255,255, 1);
   border: 2px solid #fff;
+  color: #F01616;
 }
 
 .blue-background .button {
@@ -503,6 +504,14 @@ div#addeventatc1 {
 .watch-box {
   text-align: center;
   padding-top: 2.5rem;
+}
+
+.live-box .watch-box {
+    padding-top: 1rem;
+}
+
+.live-box h3 {
+    line-height: 25px;
 }
 
 .check-circle .watch-box {
